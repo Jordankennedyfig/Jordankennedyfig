@@ -2,18 +2,8 @@ Olá! Me chamo Jordan Kennedy.
 
 - 🔭 Desenvolvedor front-end
 - 🌱 Estudando JavaScript
-- 📫 Contate-me no email: jordankennedyfigueiredo@gmail.com
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Jordankennedyfig&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Jordankennedyfig&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jordankennedyfig&show_icons=true" />
-</picture>
+- 📫 Contate-me no e-mail: jordankennedyfigueiredo@gmail.com
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
