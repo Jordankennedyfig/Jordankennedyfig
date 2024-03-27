@@ -1,6 +1,6 @@
 Olá! Me chamo Jordan Kennedy.
 
-- 🔭 Desenvolvedor front-end
+- 🔭 Desenvolvedor web front-end
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no e-mail: jordankennedyfigueiredo@gmail.com
 <div style="display: inline_block"><br>
