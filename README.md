@@ -3,8 +3,6 @@ Olá! Me chamo Jordan Kennedy.
 - 🔭 Desenvolvedor front-end
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no e-mail: jordankennedyfigueiredo@gmail.com
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Jk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
