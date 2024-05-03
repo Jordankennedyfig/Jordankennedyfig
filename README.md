@@ -20,6 +20,6 @@ Olá! Me chamo Jordan Kennedy.
  
 <br>
 <a href="https://github.com/Jordankennedyfig">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jordankennedyfig&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordankennedyfig&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
