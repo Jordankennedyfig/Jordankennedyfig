@@ -1,9 +1,10 @@
+
 Olá! Me chamo Jordan Kennedy.
 
 - 🔭 Developer 
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no e-mail: jordankennedyfigueiredo@gmail.com
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Jk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +20,11 @@ Olá! Me chamo Jordan Kennedy.
 </div>
  
 <br>
-<a href="https://github.com/Jordankennedyfig">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordankennedyfig&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+
+<div >
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordankennedyfig&theme=radical&layout=compact&card_width=290&&langs_count=4)
+
+![](https://github-readme-streak-stats.herokuapp.com?user=Jordankennedyfig&theme=react&date_format=M%20j%5B%2C%20Y%5D&theme=radical)
 </div>
