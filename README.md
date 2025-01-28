@@ -1,8 +1,4 @@
 
-  <div  align="center" style="display: inline_block"><br>
-  <img align="center" alt="Jk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 
 </div>
@@ -20,5 +16,11 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordankennedyfig&theme=radical&layout=compact&card_width=290&&langs_count=4)
 
-![](https://github-readme-streak-stats.herokuapp.com?user=Jordankennedyfig&theme=react&date_format=M%20j%5B%2C%20Y%5D&theme=radical)
+ <div  align="center" style="display: inline_block"><br>
+  <img align="center" alt="Jk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+
+
 </div>
