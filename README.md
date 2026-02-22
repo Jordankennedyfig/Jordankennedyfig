@@ -1,7 +1,7 @@
 
 <div  align="center">
   
-<img> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordankennedyfig&theme=radical&layout=compact&card_width=290&&langs_count=4) </img>
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=Jordankennedyfig&theme=radical&layout=compact&card_width=290&&langs_count=4)
 
 
 <div  align="center"> 
