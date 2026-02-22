@@ -1,7 +1,8 @@
 
 <div  align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordankennedyfig&theme=radical&layout=compact&card_width=290&&langs_count=4)
+<img> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordankennedyfig&theme=radical&layout=compact&card_width=290&&langs_count=4) </img>
+
 
 <div  align="center"> 
   <a href="https://www.linkedin.com/in/jordan-kennedy-figueiredo-4aab54294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
